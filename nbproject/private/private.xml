@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/src/java/com/sivotek/school_management_system/app/config/WebInitializer.java</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/web/WEB-INF/views/index.jsp</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/web/WEB-INF/views/login.jsp</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/src/java/com/sivotek/school_management_system/app/config/SessionListener.java</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/src/java/com/sivotek/school_management_system/app/config/Config.java</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/web/WEB-INF/views/includes_top.jsp</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/web/WEB-INF/views/backend/admin/modal_add_class.jsp</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/web/WEB-INF/views/footer.jsp</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/src/java/com/sivotek/school_management_system/app/controllers/AdminController.java</file>
+            <file>file:/Users/okoyevictor/NetBeansProjects/school_management_system/web/redirect.jsp</file>
+        </group>
+    </open-files>
+</project-private>
